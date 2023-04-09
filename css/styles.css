@@ -1,0 +1,202 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #fff;   
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .8rem;
+}
+h1 {
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+/* Navigation Section */
+.brand {
+    color: rgba(173, 60, 7, 0.548);
+}
+#navigation-section {
+    background-color: rgb(233, 175, 88);
+}
+.navbar {
+    padding: 1% 15%;
+}
+/* #active {
+    background-color: rgba(236, 231, 231, 0.548) ;
+    padding: 8px 9px;
+    
+} */
+.navbar-nav .nav-item {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: .8rem;
+    padding: 4px 7px;
+    border-radius: 8px;
+    transition: 0.5s ease-in-out;
+}
+.navbar-nav .nav-item:hover {
+    background-color: rgba(236, 231, 231, 0.548);
+}
+
+/* Hero Section */
+.fashion-content {
+    padding: 1% 15%;
+}
+.fashion-intro {
+    margin-top: 70px;
+}
+.fashion-intro h1 {
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.action {
+    padding: 8px 10px;
+    background-color: rgb(29, 17, 1);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400;
+    transition: 0.5s ease-in-out; 
+}
+.action:hover {
+    background-color:rgba(236, 231, 231, 0.548);
+    color: black;
+}
+
+.fashion-image {
+    display: flex;
+    margin: 50px;
+    padding: 0;   
+}
+.fashion-image .fashion-img {
+    border-bottom-left-radius: 70px;
+}
+
+/* New Collection Section */
+.head-images .col-lg-4 {
+    padding: 10px;
+}
+.new-collection {
+    padding: 1% 15%;
+}
+.body-collection {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.body-collection .body-image {
+    border-top-left-radius: 80px;  
+}
+.body-collection .row .col-lg-6 {
+    text-align: left;
+}
+
+  
+/* Best Seller Section */
+.best-seller {
+    padding: 1% 15%;
+    background-color: rgb(29, 17, 1);    
+}
+.best-sell {
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.sell {
+    color: #fff;
+}
+.seller-button {
+    padding: 4px 8px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400; 
+    border-style: solid;
+    border-color: #fff;
+    margin-bottom:30px;
+    transition: 0.5s ease-in-out;
+} 
+.seller-button:hover {
+    border-color: rgb(233, 175, 88);
+    color: rgb(233, 175, 88);
+}
+.sliders {
+    background-color: #fff;
+    padding-bottom: 30px;
+}
+
+/* Our Product Section */
+.our-product {
+    padding: 1% 15%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* Deal of the day Section */
+.deal-of-the-day {
+    padding: 1% 15% 0 15%;
+    background-color: rgb(233, 175, 88);
+    
+}
+.dod {
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+.action1 {
+    padding: 8px 10px;
+    background-color: rgb(29, 17, 1);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400; 
+    margin-bottom: 30px;
+}
+.action1:hover {
+    background-color:rgba(236, 231, 231, 0.548);
+    color: black;
+}
+.deal-image {
+    margin-bottom: 0;
+}
+
+/* What people say Section */
+.what-people-say {
+    padding: 1% 15%;
+    margin-top: 50px;
+}
+.people-say-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.sliding {
+    box-shadow: 0 2px 8px rgba(196, 194, 194, 0.658);
+    padding: 50px 50px;
+    border-radius: 8px;
+    background-color: rgb(248, 245, 240);
+}
+.images-showcase {
+    padding: 0 15%;
+    margin-top: 50px;
+}
+.image-list {
+    display: flex; 
+}
+.images {
+    width: 20%;
+}
+
+.footer {
+    text-align: center;
+    padding: 3% 15%;
+    background-color: rgb(29, 17, 1);
+    color: #fff;
+}
+.links {
+    margin:20px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .8rem;
+}
+.footer .links {
+    text-decoration: none;
+    color: #fff;
+}
+.footer p {
+    margin-top: 20px;
+}
+
+
