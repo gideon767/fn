@@ -72,6 +72,9 @@ h1 {
 .fashion-image .fashion-img {
     border-bottom-left-radius: 70px;
 }
+.fashion-image .fashion-img:hover {
+    padding: 20px;
+}
 
 /* New Collection Section */
 .head-images .col-lg-4 {
